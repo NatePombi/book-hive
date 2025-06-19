@@ -1,6 +1,5 @@
 package util;
 
-import exceptions.BookNotFoundException;
 import model.Genre;
 import model.IBook;
 

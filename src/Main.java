@@ -1,4 +1,3 @@
-import model.Book;
 import model.BookFactory;
 import model.IBook;
 import model.IBookFactory;
@@ -26,6 +25,6 @@ public class Main {
         ExceptionPrinting exceptionPrinting = new ExceptionPrinting();
         Menu menu = new Menu(scanner,exceptionPrinting);
         Start start = new Start(management,menu,scanner,exceptionPrinting);
-        start.start();
+        start.runApp();
     }
 }

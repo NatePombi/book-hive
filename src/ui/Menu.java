@@ -33,8 +33,7 @@ public class Menu {
     public String promptMessage(String message){
 
         System.out.print(message);
-        String input = scanner.nextLine();
-        return input;
+        return scanner.nextLine();
     }
 
     public int promptMenuMessage(String message){
@@ -61,4 +60,5 @@ public class Menu {
             System.out.println("-".repeat(30));
         }
     }
+
 }

@@ -3,7 +3,6 @@ package test;
 import model.BookFactory;
 import model.IBook;
 import model.IBookFactory;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

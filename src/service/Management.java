@@ -1,8 +1,6 @@
 package service;
 
 import exceptions.BookNotFoundException;
-import model.Book;
-import model.BookFactory;
 import model.IBook;
 import model.IBookFactory;
 import util.FindBook;
