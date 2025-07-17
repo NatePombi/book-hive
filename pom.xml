@@ -8,6 +8,18 @@
     <artifactId>BookHIVE</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>BookHive</name>
+    <description>A Java Maven project for book management</description>
+    <url>https://github.com/NatePombi/book-hive</url>
+
+    <developers>
+        <developer>
+            <id>natepombi</id>
+            <name>Nathan Pombi</name>
+            <email>pombinathan@gmail.com</email>
+        </developer>
+    </developers>
+
 
     <build>
         <plugins>
@@ -37,6 +49,7 @@
 
         </plugins>
     </build>
+
 
 
     <dependencies>

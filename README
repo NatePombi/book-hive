@@ -65,6 +65,23 @@ Welcome to Book Hive!
 
 ---
 
+## Build and Test
+
+This is a maven project. To build and run test:
+
+`bash
+mvn clean
+
+Make sure you have java 17 and maven installed
+
+To run this application:
+    mvn exec:java
+        or
+    mvn exec:java -Dexec.mainClass="com.nate.app.Main"
+
+--
+
+
 ## Author
 
  Nate Pombi
