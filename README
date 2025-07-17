@@ -38,7 +38,7 @@ BookHive/
 ├── test/
 ├── ui/
 ├── util/
-└── Main.java
+└── com.nate.app.Main.java
 
 ---
 
